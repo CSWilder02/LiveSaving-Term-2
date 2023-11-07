@@ -187,7 +187,7 @@ Using the color blue is a symbol of the medical industry. I used medical staff i
 
 To see a run through of the application, click below:
 
-[View Demonstration](pokemonproject/src/Assets/video/demonstration.mp4)
+[View Demonstration]([pokemonproject/src/Assets/video/demonstration.mp4](https://youtu.be/VuDZCh7JjUE))
 
 
 See the [open issues](https://github.com/YourName/Pokemon/issues) for a list of proposed features (and known issues).
