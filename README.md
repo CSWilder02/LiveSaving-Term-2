@@ -1,7 +1,4 @@
-# 21100249_ClarisseStrijdom_DV200_T2_FinalProject
- 
-# 21100249_ClarisseStrijdom_DV200_T2_FinalProject
- 
+# LiveSaving 
 
 <!-- Repository Information & Links-->
 <br />
@@ -174,23 +171,18 @@ Using the color blue is a symbol of the medical industry. I used medical staff i
 ### Future Implementation
 <!-- stipulate functionality and improvements that can be implemented in the future. -->
 
-* In future I would like to focus  on doing more self study work to be able to implement more features and UI designs to my webistes and application. I want to focus on creating more visually plesant design and more interactivity when it comes to my websites.
+* In future I would like to focus  on doiing more self study work to be able to implement more features and UI designs to my webistes and application. I want to focus on creating more visually plesant design and more interactivity when it comes to my websites.
 
-<!-- MOCKUPS -->
+
 ## Final Outcome
 
-### Mockups
-
-![image9](MockUps\MedicalMockUp.png)
-<br>
-![image10](MockUps\MedicalMocup.png)
 
 <!-- VIDEO DEMONSTRATION -->
 ### Video Demonstration
 
 To see a run through of the application, click below:
 
-[View Demonstration](pokemonproject/src/Assets/video/demonstration.mp4)
+[View Demonstration](https://youtu.be/VuDZCh7JjUE)
 
 
 See the [open issues](https://github.com/YourName/Pokemon/issues) for a list of proposed features (and known issues).
@@ -219,4 +211,3 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 * [Resource Name](path/to/resource)
 * [Resource Name](path/to/resource)
 * [Resource Name](path/to/resource) -->
-
